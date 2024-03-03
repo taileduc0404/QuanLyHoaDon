@@ -6,5 +6,7 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <localVM:HangHoaVM x:Key="rsHanghoa"/>
+        <localVM:HoaDonVM x:Key="rsHoaDon"/>
+        <localVM:ChiTietHoaDonVM x:Key="rsCTHD"/>
     </Application.Resources>
 </Application>
